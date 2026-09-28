@@ -13,7 +13,7 @@
 
  </p>
 <p align="center">
-  $${\color{#ffeb88}The}$$  $${\color{#e8e59e}Convient}$$  $${\color{#d0dfb6}Truth}$$  $${\color{#b9d9ce}Is}$$
+  $${\color{#a10b56}WORK}$$  $${\color{#a10b56}IN}$$  $${\color{#a10b56}PROG}$$  $${\color{#a10b56}!!!}$$
 ㅤ</br>
 </p>
 
