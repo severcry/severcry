@@ -47,7 +47,6 @@ still a wip bru
 </p>
 
   <video src="https://github.com/user-attachments/assets/6d508df0-c38a-4ef1-a7b8-b282cf0379cc" width="80%" controls></video>
-  there's gonna be a video here be patient
 
 <p align="center">
   <img width="1000" height="50" src="https://file.garden/aitxhC9ZEFuXuKr-/tumblr_7071e30694e6249016bddc88159c9a31_c6fc0d8e_400.jpg">
